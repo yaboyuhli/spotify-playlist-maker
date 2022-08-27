@@ -1,5 +1,5 @@
 const clientId = "23b4ec04283a4ae4b947535bac40fddf";
-const redirectUri = "https://6309ad03801d6f35678c8616--warm-semolina-9e5e4c.netlify.app/";
+const redirectUri = "https://warm-semolina-9e5e4c.netlify.app/";
 
 let accessToken;
 
