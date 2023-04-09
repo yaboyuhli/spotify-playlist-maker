@@ -1,5 +1,5 @@
 const clientId = "23b4ec04283a4ae4b947535bac40fddf";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://yaboyuhli.github.io/spotify-playlist-maker/";
 
 let accessToken;
 
