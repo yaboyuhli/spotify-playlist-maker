@@ -15,9 +15,14 @@
   background: transparent;
   border-bottom: 4px solid #161257;
   font-family: 'Poppins', sans-serif;
-  font-size: 35px;
-  color:#6c41ec;
+  font-size: 55px;
+  color:#c3c0c9;
  padding-top: 25px;
+ padding-bottom: 5px;
+}
+
+.Results h2{
+  font-size: 35px;
 }
 
 ::-webkit-scrollbar {
